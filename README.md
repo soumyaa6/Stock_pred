@@ -106,3 +106,4 @@ Furthermore, we've hosted our Streamlit app on Hugging Face, allowing for seamle
 
 
 **Author**: SOUMYARANI   
+**License**: MIT LICENSE
